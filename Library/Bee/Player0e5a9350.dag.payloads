@@ -1,0 +1,1192 @@
+Payload for "WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.PlayerBuildProgramBase","methodName":"WriteBootConfigAction","assemblyLocation":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/WinPlayerBuildProgram/boot.config"],"inputs":["Library/PlayerDataCache/Win64/Data/boot.config","Library/PlayerDataCache/Win64/Data/boot.config","Library/PlayerDataCache/Win64/Data/globalgamemanagers","Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets","Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets.resS","Library/PlayerDataCache/Win64/Data/level0","Library/PlayerDataCache/Win64/Data/level0.resS","Library/PlayerDataCache/Win64/Data/resources.assets","Library/PlayerDataCache/Win64/Data/resources.assets.resS","Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra","Library/PlayerDataCache/Win64/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/Win64/Data/ScriptingAssemblies.json","Library/PlayerDataCache/Win64/Data/sharedassets0.assets","Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AIModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ARModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AccessibilityModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AndroidJNIModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AnimationModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AssetBundleModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AudioModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClothModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClusterInputModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClusterRendererModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ContentLoadModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.CoreModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.CrashReportingModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.DSPGraphModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.DirectorModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GIModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GameCenterModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GridModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.HotReloadModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.IMGUIModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ImageConversionModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.InputLegacyModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.InputModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.JSONSerializeModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.LocalizationModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.NVIDIAModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ParticleSystemModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PerformanceReportingModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.Physics2DModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PhysicsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ProfilerModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PropertiesModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ScreenCaptureModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SharedInternalsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SpriteMaskModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SpriteShapeModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.StreamingModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SubstanceModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SubsystemsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TLSModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TerrainModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TerrainPhysicsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextCoreFontEngineModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextCoreTextEngineModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextRenderingModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TilemapModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UIElementsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UIModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UmbraModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityConnectModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityCurlModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityTestProtocolModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAudioModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestTextureModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestWWWModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VFXModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VRModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VehiclesModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VideoModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VirtualTexturingModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.WindModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.XRModule.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Polybrush.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Assets/Plugins/Mono.Data.Sqlite.dll","C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/PackageCache/com.unity.burst@1.8.9/Unity.Burst.Unsafe.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Accessibility.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Registry.AccessControl.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Registry.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.AppContext.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Buffers.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.Concurrent.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.NonGeneric.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.Specialized.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.Annotations.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.EventBasedAsync.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.TypeConverter.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Console.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Data.Common.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Data.SqlClient.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Contracts.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Debug.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.FileVersionInfo.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Process.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.StackTrace.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TextWriterTraceListener.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Tools.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TraceEvent.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TraceSource.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Tracing.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Drawing.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Dynamic.Runtime.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.Calendars.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.Compression.ZipFile.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.AccessControl.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.DriveInfo.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.Watcher.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.IsolatedStorage.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.MemoryMappedFiles.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.Pipes.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.UnmanagedMemoryStream.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Expressions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Parallel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Queryable.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Memory.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.AuthenticationManager.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Cache.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.HttpListener.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Mail.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.NameResolution.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.NetworkInformation.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Ping.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Requests.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Security.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.ServicePoint.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Sockets.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Utilities.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebHeaderCollection.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebSockets.Client.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebSockets.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ObjectModel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.DispatchProxy.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.ILGeneration.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.Lightweight.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.TypeExtensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.Reader.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.ReaderWriter.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.ResourceManager.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.Writer.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.CompilerServices.VisualC.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Handles.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.RuntimeInformation.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.WindowsRuntime.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Loader.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Numerics.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Formatters.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Json.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Xml.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.AccessControl.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Claims.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Algorithms.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Cng.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Csp.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.DeriveBytes.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encoding.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.Aes.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.ECDsa.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Hashing.Algorithms.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Hashing.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.OpenSsl.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Pkcs.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.ProtectedData.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.RSA.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.RandomNumberGenerator.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.X509Certificates.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Principal.Windows.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Principal.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.SecureString.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Duplex.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Http.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.NetTcp.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Security.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceProcess.ServiceController.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.CodePages.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.RegularExpressions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.AccessControl.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Overlapped.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.Parallel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Thread.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.ThreadPool.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Timer.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ValueTuple.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.ReaderWriter.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XDocument.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.XDocument.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.XmlDocument.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XmlDocument.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XmlSerializer.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.Xsl.Primitives.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/netstandard.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Microsoft.CSharp.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Mono.Data.Tds.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Mono.Security.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ComponentModel.Composition.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ComponentModel.DataAnnotations.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Configuration.Install.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Configuration.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Core.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.DataSetExtensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Entity.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Linq.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.OracleClient.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Services.Client.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Services.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Design.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.DirectoryServices.Protocols.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.DirectoryServices.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Drawing.Design.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Drawing.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.EnterpriseServices.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IO.Compression.FileSystem.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IO.Compression.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IdentityModel.Selectors.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IdentityModel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Json.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Management.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Messaging.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.Http.WebRequest.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.Http.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Numerics.Vectors.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Numerics.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Reflection.Context.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Caching.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.DurableInstancing.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Remoting.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Serialization.Formatters.Soap.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Serialization.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Security.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Activation.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Discovery.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Internals.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Routing.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Web.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceProcess.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Transactions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.ApplicationServices.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.DynamicData.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Extensions.Design.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Extensions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.RegularExpressions.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Services.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.Forms.DataVisualization.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.Forms.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xaml.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.Linq.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.Serialization.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.dll","C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/mscorlib.dll","Library/Bee/Player0e5a9350-inputdata.json"],"targetDirectories":[]}}    
+
+Payload for "WriteResponseFile Library/Bee/artifacts/rsp/18143253223029839318.rsp"
+
+--allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AIModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ARModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AccessibilityModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AndroidJNIModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AnimationModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AssetBundleModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.AudioModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClothModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClusterInputModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ClusterRendererModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ContentLoadModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.CoreModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.CrashReportingModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.DSPGraphModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.DirectorModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GIModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GameCenterModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.GridModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.HotReloadModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.IMGUIModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ImageConversionModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.InputLegacyModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.InputModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.JSONSerializeModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.LocalizationModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.NVIDIAModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ParticleSystemModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PerformanceReportingModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.Physics2DModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PhysicsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ProfilerModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.PropertiesModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.ScreenCaptureModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SharedInternalsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SpriteMaskModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SpriteShapeModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.StreamingModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SubstanceModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.SubsystemsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TLSModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TerrainModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TerrainPhysicsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextCoreFontEngineModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextCoreTextEngineModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TextRenderingModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.TilemapModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UIElementsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UIModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UmbraModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityAnalyticsModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityConnectModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityCurlModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityTestProtocolModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestAudioModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestTextureModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.UnityWebRequestWWWModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VFXModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VRModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VehiclesModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VideoModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.VirtualTexturingModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.WindModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.XRModule.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed/UnityEngine.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Polybrush.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Cinemachine.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Assets/Plugins/Mono.Data.Sqlite.dll" --allowed-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/PackageCache/com.unity.burst@1.8.9/Unity.Burst.Unsafe.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Accessibility.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Registry.AccessControl.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/Microsoft.Win32.Registry.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.AppContext.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Buffers.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.Concurrent.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.NonGeneric.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.Specialized.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Collections.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.Annotations.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.EventBasedAsync.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.TypeConverter.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ComponentModel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Console.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Data.Common.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Data.SqlClient.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Contracts.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Debug.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.FileVersionInfo.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Process.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.StackTrace.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TextWriterTraceListener.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Tools.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TraceEvent.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.TraceSource.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Diagnostics.Tracing.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Drawing.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Dynamic.Runtime.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.Calendars.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Globalization.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.Compression.ZipFile.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.AccessControl.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.DriveInfo.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.Watcher.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.FileSystem.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.IsolatedStorage.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.MemoryMappedFiles.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.Pipes.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.UnmanagedMemoryStream.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.IO.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Expressions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Parallel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.Queryable.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Linq.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Memory.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.AuthenticationManager.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Cache.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.HttpListener.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Mail.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.NameResolution.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.NetworkInformation.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Ping.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Requests.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Security.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.ServicePoint.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Sockets.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.Utilities.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebHeaderCollection.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebSockets.Client.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Net.WebSockets.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ObjectModel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.DispatchProxy.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.ILGeneration.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.Lightweight.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Emit.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.TypeExtensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Reflection.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.Reader.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.ReaderWriter.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.ResourceManager.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Resources.Writer.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.CompilerServices.VisualC.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Handles.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.RuntimeInformation.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.InteropServices.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Loader.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Numerics.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Formatters.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Json.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.Serialization.Xml.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Runtime.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.AccessControl.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Claims.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Algorithms.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Cng.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Csp.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.DeriveBytes.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encoding.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.Aes.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.ECDsa.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Encryption.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Hashing.Algorithms.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Hashing.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.OpenSsl.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Pkcs.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.ProtectedData.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.RSA.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.RandomNumberGenerator.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Cryptography.X509Certificates.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Principal.Windows.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.Principal.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Security.SecureString.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Duplex.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Http.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.NetTcp.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceModel.Security.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ServiceProcess.ServiceController.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.CodePages.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.Encoding.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Text.RegularExpressions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.AccessControl.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Overlapped.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.Parallel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Tasks.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Thread.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.ThreadPool.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.Timer.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Threading.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.ValueTuple.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.ReaderWriter.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XDocument.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.XDocument.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.XmlDocument.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XPath.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XmlDocument.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.XmlSerializer.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/System.Xml.Xsl.Primitives.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades/netstandard.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Microsoft.CSharp.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Mono.Data.Tds.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Mono.Security.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ComponentModel.Composition.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ComponentModel.DataAnnotations.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Configuration.Install.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Configuration.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Core.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.DataSetExtensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Entity.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Linq.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.OracleClient.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Services.Client.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.Services.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Data.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Design.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.DirectoryServices.Protocols.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.DirectoryServices.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Drawing.Design.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Drawing.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.EnterpriseServices.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IO.Compression.FileSystem.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IO.Compression.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IdentityModel.Selectors.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.IdentityModel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Json.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Management.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Messaging.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.Http.WebRequest.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.Http.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Net.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Numerics.Vectors.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Numerics.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Reflection.Context.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Caching.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.DurableInstancing.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Remoting.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Serialization.Formatters.Soap.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Runtime.Serialization.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Security.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Activation.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Discovery.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Internals.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Routing.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.Web.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceModel.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.ServiceProcess.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Transactions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.ApplicationServices.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.DynamicData.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Extensions.Design.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Extensions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.RegularExpressions.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.Services.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Web.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.Forms.DataVisualization.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.Forms.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Windows.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xaml.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.Linq.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.Serialization.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.Xml.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/System.dll" --allowed-assembly="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/mscorlib.dll" --out="Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped" --include-link-xml="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Temp/StagingArea/Data/Managed\MethodsToPreserve.xml" --include-link-xml="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Temp/StagingArea/Data/Managed\TypesInScenes.xml" --include-link-xml="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Temp/StagingArea/Data/Managed\SerializedTypes.xml" --include-directory="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies" --include-directory="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/il2cpp/Managed" --include-directory="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Assets/Plugins" --include-directory="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/PackageCache/com.unity.burst@1.8.9" --include-directory="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32" --include-directory="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-win32/Facades" --rule-set=Conservative --profiler-report --profiler-output-file="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/artifacts/unitylinker_dwek.traceevents" --dotnetprofile=unityaot-win32 --dotnetruntime=Il2Cpp --platform=WindowsDesktop --use-editor-options --engine-modules-asset-file="C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/modules.asset" --editor-data-file="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.Polybrush.dll" --include-unity-root-assembly="C:/Users/Jure/Documents/Diplomski/Unity/14 Underwater Submarine Tutorial - Copy - Copy - Copy/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll" --print-command-line --enable-analytics    
+
+Payload for "GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker"
+
+{"PlayerBuildProgramLibrary.Data.GenerateNativePluginsForAssembliesArgs":{"PluginOutputFolder":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker","SymbolOutputFolder":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinkerSymbols","Assemblies":["Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Assembly-CSharp.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Mono.Data.Sqlite.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Mono.Security.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/mscorlib.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Configuration.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Core.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Data.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Numerics.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Transactions.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/System.Xml.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.Burst.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.Mathematics.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.Polybrush.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.RenderPipelines.Core.Runtime.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.RenderPipelines.HighDefinition.Runtime.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.Timeline.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.VisualEffectGraph.Runtime.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.AIModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.AndroidJNIModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.AnimationModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.AssetBundleModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.AudioModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.CoreModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.DirectorModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.GridModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.ImageConversionModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.IMGUIModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.InputLegacyModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.InputModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.ParticleSystemModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.Physics2DModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.PhysicsModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.PropertiesModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.ScreenCaptureModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.SharedInternalsModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.SpriteShapeModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.SubsystemsModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.TerrainModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.TextRenderingModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.TilemapModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UI.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UIElementsModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UIModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UnityAnalyticsModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UnityWebRequestModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.VFXModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.VideoModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.VRModule.dll","Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.XRModule.dll"]}}    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/pka8h/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ku02x2yvs4he0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/char-conversions.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/c9yji7eh6zs20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/nrl6bfmnhb4b0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/9tz2c8xdqxk40.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/bodk0ttf58z90.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/kzuocvlbqmwf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fzuf2rwfsr310.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/85op4arpo3730.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/85op4arpo3731.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/85op4arpo3732.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/kw3tvtykvbw60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/syt6k7n30wzp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/x9lws9ss3kbf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/y49nbh3qoisy0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/n48xpw6viqls0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/dcenex58j43s0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/dcenex58j43s1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/dcenex58j43s2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/dcenex58j43s3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/hshawlmjtltr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/mqfhj33dvgt20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/gt6zzr9dtd460.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/67l4lnvc27m30.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/67l4lnvc27m31.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/67l4lnvc27m32.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/zr37g4mtzr130.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/vrf9gwtpdx5p0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/k2ztjl982wxi0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/k2ztjl982wxi1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/smsilb6kk5jr0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jyuybbp10rq20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Error.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Event.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Messages.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jyuybbp10rq21.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Image.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Path.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Socket.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7mq72cs9v8kd0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7mq72cs9v8kd1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7mq72cs9v8kd2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/kjuqd24vilbx0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/3ew8ikjnphne0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/3ew8ikjnphne1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/3ew8ikjnphne2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/3ew8ikjnphne3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fi2n39bp5mdk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fi2n39bp5mdk1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fi2n39bp5mdk2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fi2n39bp5mdk3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fi2n39bp5mdk4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ebhc61hizg9c0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ebhc61hizg9c1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/61ymgdk2dk5s0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Output.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/61ymgdk2dk5s1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/61ymgdk2dk5s2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/qeu9eapoh7pg0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/z5fv5dgbnnko0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Module.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Path.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/String.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Array.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Object.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/COM.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Method.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Random.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Image.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Property.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz5.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Field.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/esqs8tstt7gz6.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Class.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/Event.cpp"
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pch-cpp-10529331674524624201.cpp"
+
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/pch/pch-cpp.hpp"    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pch-c-11743167266400785832.cpp"
+
+#include "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/il2cpp/libil2cpp/pch/pch-c.h"    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/GameAssembly.dll.dummy.def"
+
+EXPORTS    
+
+Payload for "WriteResponseFile Library/Bee/artifacts/rsp/16889393020320835911.rsp"
+
+﻿/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\ucrt\x64"
+/NOLOGO
+/LARGEADDRESSAWARE
+/NXCOMPAT
+/DYNAMICBASE
+/TLBID:1
+/IGNORE:4099
+/DEBUG:FULL
+/MACHINE:X64
+/HIGHENTROPYVA
+/INCREMENTAL:NO
+/OPT:REF
+/OPT:ICF
+/PDB:"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/GameAssembly.pdb"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/l3qrhtl0og9n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/m09rdv6nz6di.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/l9u8vfwzycd9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pbfyfzumn9fr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qjze0eblrbx6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bz22fopiuz8p.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/c7mj035gy1p5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/xmq7fdke1p1o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/i2tvvmyb4dd8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/jaecg2ea8fun.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4ph0vbt7a456.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6oywbpax10os.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/r41kryou4o0b.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/scm1be5s8qhr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/dspprnjqbfta.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/e095b3zofhaq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zfdurcemi5l9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/kvgi7lsjltxs.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/l30yr18hpve8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/7zzww6jjcg7t.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/snrcmkj0fno3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/uik084n7c2kj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vq4gtk45g41y.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/g6748ti3jsdi.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1lbto3w0mgp1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2tv98idzqi6g.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/n9yxosrwt6h0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/8o2l415twutj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9wm2ohms0waz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ucqq4q0p3kmi.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vka7o6go7m3x.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/d3u01txxib0m.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1kkjhsdof7je.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2s4z17tmj90t.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/n87nhh8jmxcd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ogs41woiqzts.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9vvsh62ftn5b.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ubzgxfhdwbhv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vjjxhvxb0dya.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/gzmlx4b9219t.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1eq9ceq65pld.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2maqxt649r2s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ebfhm9dwmdh2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/of1uul55iqo5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9u4iavj3le0o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/a3ozua01pgh4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/visnakezs4sn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/gyvbqtswvs46.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/h6fsa98uzulm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2ljgqins2ix5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/n1m45r1p568o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/o96kq7ho98p4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9oa95gwlcx1n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zqi51istp1sl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vh1d38umlvn0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/gx41ii9jojzj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/h5oi3xpislgz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2ks6i73fv9ri.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3scn3mkezb9x.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/o8fbjwyb2zkh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9njzy5c94nw0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/aw3fjlt78pdg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vb73yu74bepz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/grase4l2e20i.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/k6lths6qsp44.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2j1wbwk3n0mv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3rldwb11r23a.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/o7o1blfzuqfu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9msprutwxerd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/avc6baav1g8s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vagurjos44jc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wi0acz4q860r.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hy3yr8iobvcb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2d7m7hxlejou.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3lr3rxdkil59.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/le6917mpwrlk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pei8opclrjrm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/aulw4yqiu725.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/v9okk84fxvep.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wh904nle1xv4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hxcpkxzb4l7n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/i5w54cga8no3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3k0tkmu7ac0m.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/o03h0v84d0b6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/p8nykbp3h2sl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/aorm0k30kq44.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6t9xhh1mzfx3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wgirxc21toqh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hwlfdmgzwc20.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/i45vx1wx0ejg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3j9jdbbv32uz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ozc8skps6q6i.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/p7wod05qatny.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/an0ct9jodhzh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bvktdp0mhjgx.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/waohtyekk7rg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hqr587shnv3z.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/r9cmxqfk238m.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3iia6zriwtpc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4q2qqf8g0v6r.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/shx2h6vi65p2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/s3e7221ce6cl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bfnq1jlhi87d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/cn76lz1fmapt.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/a5ur4ce4q1y0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1jj6zk8xsn7u.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/dloohmiyvpca.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/t9llqrazaxs2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/t61jcbjvzehd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2ojuax1zo5el.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/z8uy5jdtp0f1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4aykh7zvh12b.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bvverkolrvih.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/03npi2nhpman.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bxux6ilufe2s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ek7ary7t0rjk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/lr5oryrczo4z.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/kjmax8dqixop.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/v8zcis8qjeg3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bdq8mshboxsr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wstw21v8ql4a.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/x0ddnhc7unlq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/igh12qq4xbx9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3vkpi0410z8s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/43452fl041p8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pj8tipzx7p1r.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/azbiyydvaedb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/b7vyieuteguq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wmzmyn8qh459.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wgkt27opngxi.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ifqrvf7rq2rm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/jna8fvnqu481.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/42dwv41nxskl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pihkbegl0gw4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hwnhih3mq481.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2br5xqhktskl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3jbmi6xixu10.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ozeayfcg0idk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/p7yqivse4kuz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/an2ey46b785i.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/v252del99wh2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qudehnwn5uzr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/tdaumcvktmws.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/awyusr2f3nv9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/45u7gln4m9kl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ftbumi9npnqs.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/7kzhsjpu1v00.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/g1va7xpmtp77.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1gzym73jwdjr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/mw2m2gihz1ua.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/n4m3mwyf33bq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/8jqr25cd6rn9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9ra8mltbau4o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/u7dw2u78cig8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/fnhki4l6f6rr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/8nmuulkag1k2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/rvq6y8vrqclf.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3vsxeme926tm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/sgvhe7pqi9sn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/yc1wrtwtn8bu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/js4k72arqwnd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/k0o1rirpuy4s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5fsp7r5mxmgc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qvvdn1jk0asv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/tofyym6omba3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/e4imewkmpzlm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zjmau5yjsnx5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0r6qelfiwpel.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/l79euutfzdq4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6md3937c211n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/7uxjujob63i3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/sa179s288rum.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5b24342c3vdu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/9rx2ntcu2i72.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/u70q32qr56im.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qr5sjeha6jpd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/rzp93tx89l6s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/cftxj3b6caic.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/xuwlzcq3fytv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/y2g2js61j0ab.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/jikqz1kzmomu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4xnefbzwpcyd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/557uzqfvteft.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/eveihd5k99gj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0rsj31krd7w8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4guo3e4rs633.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0r5zns0cdj2q.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/b940t1dacuhd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wo8o9as7eitw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/h4bdpk64h64f.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/icwt9zm3l8lv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3rzhp900owxe.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/4zjy9ohzsyeu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/cw37t2kjewxk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/i12s1ti9yctd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/x2izxaf8l6yw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pzgs3kkagbyr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/afkgjuy7iz9a.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vun4y3c5lnlu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/w27kjjt3pp29.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ya3fiqv6p8fc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/jq63xz93swrv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/459rd9n1vk3e.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5du8xo4zzmku.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qtxwdyix2awd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/r1hdydzv6cdt.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/chl1dndt90oc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/xwoptwrqcp0v.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hx9q5f81psdj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/lnt7s00q0clo.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/22pm1eb73byz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/it2k9iqkj1q2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/sy69suotrchg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ohbxla4q4zyl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/akm3oii56fph.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ivvh0y4d1sbm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5l6rpqud0fsa.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/a2lceptah9i7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/vhp0ty77jxuq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wp9geeo6nzb6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/h5c5tn23qnnp.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/mp2ic0jtd5xm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/mt7vnh1r0hch.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0ojz935spcvr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1tim7mk5mp90.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zv4udpq2hu6g.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/kzxp9j2kl5af.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/b8n9oc2hc42s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2foa66ux94e6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/b2olyynifhlb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/x09gg4xpl8rv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zr6uud957vbe.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5mn1pxehc48v.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2juxwkch36qe.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/tvrgaftghkk1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/sawiymc37mlv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/aq9jf6ul78dh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/xvsn59zwrqps.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3ppxx281qfs3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/tnce7kc8dm56.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/20ys4cm9s7js.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/38i9os27w907.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/oomx41g5zxcr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/381x9v6er4b1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/uaoksvjhjqlb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6r2doloijucg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/xav3vkfq4vpj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ylenaa67hgio.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/w2mynr7l59kr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/hiqm30lj8xwa.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/iqa3ng2hc0dq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/35dr3pgffop9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/olhfjzucic1s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/zty3upm6liz3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/k91raz03o6an.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5o5fq8e1rum6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6wpwaovzvw3l.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/rctkqx9wykf5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/csw856nu18qo.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/d0gpqm4s5a83.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/yfkd6viq8yjn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2zmjpudvfe9z.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/p43llemn7o27.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ak790n0kader.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/bsrql3gjefv6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/n6qe9c2g2pws.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/gmfte9740zwa.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/g078ne6vrgif.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ft2vxnzi7ql6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/qs60wujwhagd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/okq6277ble84.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/62yac3l7uv4e.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/14h6dlbzvc6f.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/09vg4izgermf.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/c0gsipz26onk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ywp7lcb3ty44.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/j5b93efsul9l.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/09kf5z307s1x.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5fw5878q7d3n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/jdd47or9stkp.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1rqygopazg63.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/744fyhuvtoz8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/taipv6v2jzk0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/obza9271t6oz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ykq78mkw2sxt.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0knljazxuvyb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2cxy6rtfh7w2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/lsv6fyf5zgym.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wgnd35yx1nre.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/0qs7d6hq004s.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3lqio6tdyaq1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/rfvm1s4iqp7d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6l5tc3jk6rh5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6pa95wcqsou4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/8ika71gxgqh5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/gfq6it7wh9tq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/8mo2vjv9zumy.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/oy63hpnrvz4f.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2tzuvw6k984c.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/p0g3icmlvg1v.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pfdt8win5tls.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ub6iua630gmu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wq4ockr87vso.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/g8vrmf1ve7h7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/6t0lelbqtszn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/icepigvg3a21.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/x85ycljcjve5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/al6roqnkhxuq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/guzid0cx8j9h.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/55xhszsqk1lh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/fdovsohdt9yu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/r9ubb7oepvc6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/2cnb28cigv4u.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/b7bmwqundppd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5v26g53fxnco.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/byyv7fwc6d0o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/h1ln9r0kmagg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/q36ilcbk5m7j.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/lmy1m3xysczx.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/szgmkn5xqkzj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/uyisjemph3lw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/5ap3s2k8c2uq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/na6ij1giyrbr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/1uas4kqm02af.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/783v8x55e79d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/i6tqvnf3ibm3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/tou55h5hq9b3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/m4sy37d7k64x.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/eb8u6q2u4n5n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/3zb8cvgyjacv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/wbn1ykmrj3b3.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/86opvjoqilsv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/j5df55rs5fkq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/mqfjrjv18va4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/84wl7t5mzbks.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/ekqzp4jef210.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/uayxxp042r6e.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pch-cpp-10529331674524624201.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/pch-c-11743167266400785832.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/0f29z5i5l1cq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/1bw5o0pv2g78.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/1f4kutd0bn1e.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/1q1ckhxa9g26.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/2m61esv2qv4d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/2oc5tp9yk87b.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/2omnjfk3uu10.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/2v0ewg82uvip.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/4ca0fv38q2f7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/54e9ww1p8ovn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/5cusu5wz5kbd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/5p0vln9g8qsi.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/62pdjagp1uet.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/6ayl0mavfis2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/6kb99hodm308.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/74ifczjtu6oc.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/76huxj4b8nkb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7d22kpwzurpf.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7l4yi9b70nt0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/7vkih31cniw1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/81a8p0b7p919.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/88aenv7k468c.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/8l0156tcgahl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/90ynk35sd8nf.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/96o6iw8i623x.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/9716wz3eawvg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/9qrpz136i15d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/9ss11nxwmmhv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ahzmiapiposj.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/aivxv6lpt7qu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/bllqr89ampi4.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/bslwo35o0mp7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/c0ebs9kqcc8n.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/c9g0wc28sqom.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/chate0u3zh4d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/cn0bydgkfrdr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/d42xrm2hnkds.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/d8byt4ijciwq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/daf2h9cwxnjy.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/e11mjw9dea2d.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/e9xp122uinxr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/f6auzleob7tl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/fj2gmw6aeevq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/g3he05fin7kg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/gndgtu0lj0tm.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/gtpkjhb0t3zs.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/h9dhxdt3tkaf.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/hbmxo0ioatv5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/hf8so2vbfm35.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/hj6ro0ii2idl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/hzmll0ejmj5o.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/i4ymyjxy5hh2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/icpsxtwb5ks1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/iplc1tcs7mag.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jc02kp93pjgn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jha03i5w296v.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jvzel8wpk24k.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/jxxpowakzidb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/k2snqvxf6aox.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/kuwfq8gs68b0.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/l91cstiasqk1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ljm4n295b5k7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/lrhv41ths59t.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ly21des479v6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/myvkt4rbn4l7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/nl35r3vj2q4r.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/nlwjbsyv8zdx.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/npowkri7vs61.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/o3f0mfnkxl4u.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ox9ptlt5ecch.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/pligi0cksog1.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/q4dotbuny6km.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/q7btnh2hkcis.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/qpju6gw2iaa6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/r07wg2eqx7yo.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/r09h7jrsl7mw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/rfd99men4dhd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/rgk8utr9assb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/rxh54t8psqzr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/rzopogi44yva.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/s4syj8aoo4wv.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/sn24swwacqgu.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/t7zxkx3tybyw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/tl0xztoq5ofp.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/tp426yyk62yn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/tpsjufas3yj8.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/tqmbpp0lgsym.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/tr1pkljptju2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/u5cl2li42sk5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ue5pd5u72xak.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/uxtp8eaurrmg.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/uynrbvcr0tx7.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/v5dy3grgv111.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/vdjkrdhsjr4p.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/vn3glg9rkkdq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/w9wtqxypc8eh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/wg7vqrq4faus.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/wkf0b8lk9hmt.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/wr2c7cirdijh.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/x2fo7py4sfp6.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/xg6837fhr6i9.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/xit0yo7h1z1h.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/xjt0cfgmup7u.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/y6dzmo7vg0tk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/yh4cur6e7d14.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/yk9qkgoi0iit.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ykojjkb3ufjz.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/yto45d9milrq.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/ywt2slfwf7kk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/yzrld671jzsw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/yzumimijdz9e.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/zi9r2phwdlhr.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/ei6vj/zs7bs5wt8nvb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/0rkyo30mxk2v.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/294nr6znp13z.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/2f3u44zhyylk.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/5pwzfsjxllqb.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/82w59argemc2.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/9in0bedp8ff5.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/d8jx4628zpdn.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/er24oc1prm3r.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/fkgc2rie2voo.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/fvte1qiuycdw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/j0bul9a9gsvl.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/jf4oruvslzcw.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/o38duaewuc0h.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/f0vvw/tokcl8wlnfsd.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/pka8h/h5z0gimor0jp.obj"
+"Library/Bee/artifacts/WinPlayerBuildProgram/pka8h/mcam48zs0i8l.obj"
+/DLL
+/DEF:"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/GameAssembly.dll.dummy.def"
+/IMPLIB:Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/GameAssembly.dll.lib
+/SUBSYSTEM:WINDOWS
+/NODEFAULTLIB:uuid.lib
+/NODEFAULTLIB:uuid.lib
+/OUT:"Library/Bee/artifacts/WinPlayerBuildProgram/u1oik/GameAssembly.dll"
+"kernel32.lib"
+"user32.lib"
+"advapi32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"Shell32.lib"
+"Crypt32.lib"
+"psapi.lib"
+"version.lib"
+"MsWSock.lib"
+"ws2_32.lib"
+"Iphlpapi.lib"
+"Dbghelp.lib"
+"C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\Variations\win64_player_nondevelopment_il2cpp\baselib.dll.lib"
+/IGNORE:4104
+/IGNORE:4206
+/IGNORE:4104
+/IGNORE:4206    
+
+Payload for "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+
+DefaultCompany
+Testing    
+
