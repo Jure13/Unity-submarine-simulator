@@ -1,5 +1,5 @@
 # Unity-submarine-simulator
-A Unity submarine simulator, with sensors' modeled in AADL (and originally written in C, for a related project).
+A Unity submarine simulator, with sensors' models made in AADL (and originally written in C, for a related project).
 Data is being written into an SQLite database.
 
 Basic (environment and submarine) template was created by CyberChroma: https://github.com/CyberChroma/Unity-Tutorials/tree/master/14%20Underwater%20Submarine%20Tutorial
